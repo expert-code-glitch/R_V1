@@ -1,3 +1,4 @@
 .env
 email.js
 serviceAccountKey.json
+node_modules
